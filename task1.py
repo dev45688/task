@@ -1,7 +1,7 @@
 #module2 
 #  task1:
-a=(input("enter the first number:"))
-b=(input("enter the second number:"))
+a=input("enter the first number:")
+b=input("enter the second number:")
 a=int(a)
 b=int(b)
 print("addition:",a+b)
